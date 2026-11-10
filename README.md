@@ -7,3 +7,5 @@ etudiante en design j'aime les interfaces sobres
 - **Git** : garder l'historique de mon projet 
 - **Github* : le partage en ligne 
 - **Markdown* : écrire du texte en forme 
+## Ma page 
+[Voir ma page en ligne)(https://neocampus.lecolededesign.com/campus/agenda)
